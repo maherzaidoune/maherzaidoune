@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Maher Zaidoun</h1>
-<h3 align="center">I’m launching Skinify and Shortd, and I'm the co-founder of RRDl, helping founders transform their ideas into real apps </h3>
+<h3 align="center">Launching indie startups—small apps designed to make life easier for people. Currently, I'm working on StarryAI, an AI art app</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maherzaidoune&label=Profile%20views&color=0e75b6&style=flat" alt="moneemsaadaoui" /> </p>
 
-- 🔭 I’m currently working on Skinify.ai ! [Skinify.ai](https://skinify.ai/), Shortd, RRDL (https://rrdl.io/) and Starryai
-- 
-- 💬 Ask me about **React Native, Android/iOS, React , Node.js**
-
+- 💬 Ask me about **React Native, Android/iOS, React, Node.js**
 - 📫 How to reach me **maherzaidoune@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
