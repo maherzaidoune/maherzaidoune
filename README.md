@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maher Zaidoun</h1>
-<h3 align="center">Launching indie startups—small apps designed to make life easier for people. Currently, I'm working on a couple of indie apps</h3>
+<h3 align="center">Launching utility apps that simplify daily life, while building fintech solutions at a London bank. Transforming small ideas into meaningful digital tools. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maherzaidoune&label=Profile%20views&color=0e75b6&style=flat" alt="moneemsaadaoui" /> </p>
 
